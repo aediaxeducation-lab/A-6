@@ -1,0 +1,72 @@
+{
+  "id": "1774938585814",
+  "title": "dd",
+  "description": "dd",
+  "type": "mixed",
+  "duration": 60,
+  "totalMarks": 16,
+  "passingMarks": 7,
+  "instructions": "dd",
+  "questions": [
+    {
+      "text": "d",
+      "options": [
+        "1",
+        "13",
+        "2",
+        "3"
+      ],
+      "correctOption": 0,
+      "marks": 1,
+      "type": "mcq",
+      "id": 1774938531926.4658,
+      "createdAt": "2026-03-31T06:28:50.322Z",
+      "addedAt": "2026-03-31T06:28:51.926Z"
+    },
+    {
+      "text": "ww",
+      "modelAnswer": "ww",
+      "marks": 5,
+      "type": "written",
+      "keywords": [],
+      "wordLimit": 33,
+      "difficulty": "medium",
+      "id": 1774938551468.4902,
+      "createdAt": "2026-03-31T06:29:09.587Z",
+      "addedAt": "2026-03-31T06:29:11.468Z"
+    },
+    {
+      "text": "www",
+      "description": "www",
+      "inputFormat": "ww",
+      "outputFormat": "ww",
+      "constraints": "ww",
+      "sampleInput": "www",
+      "sampleOutput": "ww",
+      "testCases": [
+        {
+          "input": "w",
+          "output": "w",
+          "isHidden": false,
+          "description": "w",
+          "id": 1774938576698
+        }
+      ],
+      "programmingLanguages": [
+        "javascript",
+        "python",
+        "java"
+      ],
+      "marks": 10,
+      "type": "coding",
+      "timeLimit": 2,
+      "memoryLimit": 256,
+      "id": 1774938580197.652,
+      "createdAt": "2026-03-31T06:29:38.561Z",
+      "addedAt": "2026-03-31T06:29:40.197Z"
+    }
+  ],
+  "createdAt": "2026-03-31T06:29:45.814Z",
+  "updatedAt": "2026-03-31T06:29:45.814Z",
+  "version": "1.0"
+}
